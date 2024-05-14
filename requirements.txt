@@ -1,0 +1,11 @@
+openai
+langchain
+pinecone-client
+python-dotenv
+tiktoken 
+docx2txt
+pypdf
+requests
+pandas
+aiohttp
+PyYAML
