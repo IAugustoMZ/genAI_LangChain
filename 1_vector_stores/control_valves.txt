@@ -1,0 +1,475 @@
+1.1 What is a Control Valve?
+Modern processing plants utilize a vast 
+network of control loops to produce an 
+end product for market. These control 
+loops are designed to keep a process 
+variable (i.e. pressure, flow, level, 
+temperature, etc.) within a required 
+operating range to ensure a quality end 
+product is produced. Each of these loops 
+receives and internally creates 
+disturbances that detrimentally affect 
+the process variable (PV). Interaction 
+from other loops in the network also 
+provide disturbances that influence the 
+process variable. See Figure 1.1.
+Sensor
+Controller Transmitter
+Control 
+Valve
+Process
+Manipulated 
+Variable
+Controlled 
+Variable
+Figure 1.1 Feedback Control Loop
+To reduce the effect of these load 
+disturbances, sensors and transmitters 
+collect information about the process 
+variable (PV) and its relationship to some 
+desired set point. A controller processes 
+this information and decides what must 
+be done to get the process variable back 
+to where it should be after a load 
+disturbance occurs. When all the 
+measuring, comparing, and calculating 
+are done, some type of final control 
+element must implement the strategy 
+selected by the controller. 
+The most common final control element 
+in the process control industries is the 
+control valve. The control valve 
+manipulates a flowing fluid, such as gas, 
+steam, water, or chemical compounds to 
+compensate for the load disturbance and 
+keep the regulated process variable as 
+close as possible to the desired set point. 
+The control valve is a critical part of the 
+control loop. Many people who talk 
+about control valves are really referring 
+to a control valve assembly. The control 
+valve assembly typically consists of the 
+valve body, the internal trim parts, an 
+actuator to provide the motive power to 
+operate the valve, and a variety of 
+additional valve accessories, which can 
+includes, transducers, supply pressure 
+regulators, manual operators, snubbers, 
+or limit switches. 
+There are two main types of control 
+valve designs, depending on the action 
+of the closure member: sliding-stem or 
+rotary. Sliding-stem valves, as seen in 
+Figure 1.2 and 1.3, use linear motion to 
+move a closure member into and out of 
+a seating surface. Rotary valves, as seen 
+in Figure 1.13 and 1.17, use rotational 
+motion to turn a closure member into 
+and out of a seating surface. 
+1.2 Sliding-Stem Control 
+Valve Terminology
+The following terminology applies to the 
+physical and operating characteristics of 
+standard sliding-stem control valves 
+with diaphragm or piston actuators. 
+Some of the terms, particularly those 
+pertaining to actuators, are also 
+appropriate for rotary control valves. 
+Many of the definitions presented are in 
+accordance with ANSI/ISA-75.05.01, 
+Control Valve Terminology, although 
+other popular terms are also included. 
+Additional explanation is provided for 
+some of the more complex terms. 
+Additional sections in this chapter follow 
+that define specific terminology for 
+rotary control valves, general process 
+control, and control valve functions and 
+characteristics.
+Actuator Spring: A spring, or group of 
+springs, enclosed in the yoke or actuator 
+casing or piston cylinder that moves the 
+actuator stem in a direction opposite to 
+that created by loading pressure.
+Actuator Stem: The part that connects 
+the actuator to the valve stem and 
+transmits motion (force) from the 
+actuator to the valve.
+Actuator Stem Extension: An extension 
+of the piston actuator stem to provide a 
+means of transmitting piston motion to 
+the valve positioner. 
+Actuator Stem Force: The net force 
+from an actuator that is available for 
+actual positioning of the valve plug, 
+referred to as valve travel.
+Angle Valve: A valve design in which the 
+inlet and outlet ports are perpendicular 
+to each other. See also Globe Valve.
+Figure 1.4 Angle Valve
+Bellows Seal Bonnet: A bonnet that 
+uses a bellows for sealing against 
+leakage around the closure member 
+stem. See Figure 1.5.
+Bonnet: The portion of the valve that 
+contains the packing box and stem seal 
+and can provide guiding for the valve 
+stem. It provides the principal opening 
+to the body cavity for assembly of 
+internal parts or it can be an integral part 
+of the valve body. It can also provide for 
+the attachment of the actuator to the 
+valve body. Typical bonnets are bolted, 
+threaded, welded, pressure sealed, or 
+integral with the body. This term is often 
+used in referring to the bonnet and its 
+included packing parts. More properly, 
+this group of component parts should 
+be called the bonnet assembly.
+Bonnet Assembly (Commonly Bonnet, 
+more properly Bonnet Assembly): An 
+assembly including the part through 
+which a valve stem moves and a means 
+for sealing against leakage along the 
+stem. It usually provides a means for 
+mounting the actuator and loading the 
+packing assembly, and maintains proper
+alignment of the plug to the rest of the 
+control valve assembly. See Figure 1.6.
+2
+3
+5
+1
+4
+Figure 1.5 Bellows Seal Bonnet
+1. Bonnet
+2. Packing
+3. Packing Box
+4. Bellows
+5. Valve Stem
+1
+2
+3
+4
+Figure 1.6 Bonnet Assembly
+1. Bonnet
+2. Packing
+3. Packing Box
+4. Valve Stem
+Bottom Flange: A part that closes a 
+valve body opening opposite the bonnet 
+opening. It can include a guide bushing 
+and/or serve to allow reversal of the 
+valve action.
+Bushing: A device that supports and/or 
+guides moving parts such as valve stems 
+and plugs.
+Cage: A part of the valve trim that 
+surrounds the closure member and can 
+provide flow characterization and/or a 
+seating surface. It also provides stability, 
+guiding, balance, and alignment, and 
+facilitates assembly of other parts of the 
+valve trim. The walls of the cage contain 
+openings that usually determine the 
+flow characteristic of the control valve. 
+See Figure 1.7.
+Closure Member: The movable part of 
+the valve that is positioned in the flow 
+path to modulate the rate of flow 
+through the valve.
+Closure Member Guide: That portion of 
+a closure member that aligns its 
+movement in either a cage, seat ring 
+(port guiding), bonnet, bottom flange, 
+stem or any two of these.
+Cylinder: The chamber of a piston 
+actuator in which the piston moves.
+Cylinder Closure Seal: The sealing 
+element at the connection of the 
+piston actuator cylinder to the yoke.
+Diaphragm: A flexible, pressure 
+responsive element that transmits 
+force to the diaphragm plate and 
+actuator stem.
+Diaphragm Actuator: A fluid-powered 
+device in which the fluid, usually 
+compressed air (see Loading Pressure), 
+acts upon a flexible component, the 
+diaphragm to produce a force to move 
+the closure member.
+Diaphragm Case: A housing, 
+consisting of top and bottom 
+section, used for supporting a 
+diaphragm and establishing one or 
+two pressure chambers.
+Figure 1.7 Cages (left to right): Linear, Equal-Percentage, Quick-Opening
+Control Valve Handbook | Chapter 1: Introduction to Control Valves
+18
+Diaphragm Plate: A rigid plate 
+concentric with the diaphragm for 
+transmitting force to the actuator stem.
+Direct-Acting Actuator: An actuator, 
+in which the actuator stem extends 
+with increasing loading pressure. See 
+Figure 1.9.
+Extension Bonnet: A bonnet with 
+greater dimension between the 
+packing box and bonnet flange for hot 
+or cold service.
+Figure 1.8 Three-Way Globe Valve
+Globe Valve: A valve with a linear 
+motion closure member, one or more 
+ports, and a body distinguished by a 
+globular shaped cavity around the port 
+region. Globe valves can be further 
+classified as: two-way single-ported 
+(Figure 1.3); two-way double-ported; 
+angle-style, or three-way (Figure 1.8).
+Loading Pressure: Fluid, usually 
+compressed air, applied to the diaphragm 
+or piston in a pneumatic actuator.
+Offset Valve: A valve construction 
+having inlet and outlet line connections 
+on different planes, but 180 degrees 
+opposite each other.
+Packing Box (Assembly): The part of 
+the bonnet assembly used to seal 
+against leakage around the closure 
+member stem. Included in the complete 
+packing box assembly are various 
+combinations of some or all of the 
+following component parts: packing, 
+1
+3
+2
+4
+5
+6
+7
+8 9
+10 11
+1. Loading Pressure Connection
+2. Diaphragm Case
+3. Diaphragm
+4. Diaphragm Plate
+5. Actuator Spring
+6. Actuator Stem
+7. Spring Seat
+8. Spring Adjuster
+9. Stem Connector
+10.Valve Stem
+11.Yoke
+Figure 1.9 Direct-Acting Actuator
+Control Valve Handbook | Chapter 1: Introduction to Control Valves
+19
+packing follower, packing nut, lantern 
+ring, packing spring, packing flange, 
+packing flange studs or bolts, packing 
+flange nuts, packing ring, packing wiper 
+ring, felt wiper ring, Belleville springs, 
+anti-extrusion ring. See Figure 1.11.
+Piston: A rigid movable pressure 
+responsive element that transmits force 
+to the piston actuator stem.
+1
+2
+3
+4
+5
+6
+7
+1. Loading Pressure 
+ Connection
+2. Piston
+3. Piston Seal
+4. Cylinder
+5. Cylinder Closure 
+ Seal
+6. Seal Bushing
+7. Stem Connector
+Figure 1.10 Piston-Type Actuator
+Piston-Type Actuator: A fluid powered 
+device in which the fluid, usually 
+compressed air, acts upon a movable 
+piston to provide motion of the actuator 
+stem and provide seating force upon 
+closure. Piston-type actuators are 
+classified as either double-acting, so that 
+full power can be developed in either 
+direction, or as spring-fail so that upon 
+loss of supply power, the actuator moves 
+the valve in the required direction of 
+travel. See Figure 1.10.
+Port: The flow control orifice of a 
+control valve. 
+Retaining Ring: A split ring that is used to 
+retain a separable flange on a valve body.
+Reverse-Acting Actuator: An actuator 
+in which the actuator stem retracts with 
+increasing loading pressure. Reverse 
+actuators have a seal bushing installed in 
+the upper end of the yoke to prevent 
+leakage of the loading pressure along 
+the actuator stem. See Figure 1.12.
+Rubber Boot: A protective device to 
+prevent entrance of damaging foreign 
+material into the piston actuator 
+seal bushing.
+Seal Bushing: Top and bottom bushings 
+that provide a means of sealing the 
+piston actuator cylinder against leakage. 
+Synthetic rubber O-rings are used in the 
+bushings to seal the cylinder, the actuator 
+stem, and the actuator stem extension.
+Seat: The area of contact between the 
+closure member and its mating surface 
+that establishes valve shutoff.
+Seat Load: The net contact force 
+between the closure member and seat 
+with stated static conditions. In practice, 
+Figure 1.11 Packing
+1
+2
+3
+4
+5
+6
+3
+4
+5
+7
+8
+9
+1. Upper Wiper
+2. Packing Follower
+3. Female Adaptor
+4. V-Ring
+5. Male Adaptor
+6. Lantern Ring
+7. Washer
+8. Spring
+9. Box Ring/Lower 
+Wiper
+PTFE Packing
+1
+1
+1
+2
+3
+2
+1
+4
+4
+4
+1. Filament Ring
+2. Laminated Ring
+3. Lantern Ring
+4. Zinc Washer
+Graphite Packing
+Control Valve Handbook | Chapter 1: Introduction to Control Valves
+20
+the selection of an actuator for a given 
+control valve will be based on how much 
+force is required to overcome static, 
+stem, and dynamic unbalance with an 
+allowance made for adequate seat load.
+Seat Ring: A part of the valve body 
+assembly that provides a seating surface 
+for the closure member and can provide 
+part of the flow control orifice.
+Separable Flange: A flange that fits over 
+a valve body flow connection. It is 
+generally held in place by means of a 
+retaining ring.
+Spring Adjuster: A fitting, usually 
+threaded on the actuator stem or into 
+the yoke, to adjust the spring 
+compression (see bench set in Control 
+Valve Functions and Characteristics 
+Terminology).
+Spring Seat: A plate to hold the spring 
+in position and to provide a flat surface 
+for the spring adjuster to contact.
+Static Unbalance: The net force produced 
+on the valve stem by the process fluid 
+pressure acting on the closure member 
+and stem with the fluid at rest and with 
+stated pressure conditions.
+Stem Connector: The device that 
+connects the actuator stem to the 
+valve stem.
+Trim: The internal components of a valve 
+that modulate the flow of the controlled 
+fluid. In a globe valve body, trim would 
+typically include closure member, seat 
+ring, cage, stem, and stem pin.
+Trim, Soft-Seated: Valve trim with an 
+elastomeric, plastic, or other readily 
+deformable material used either in the 
+closure component or seat ring to 
+provide tight shutoff with minimal 
+actuator forces.
+Valve Body: The main pressure 
+boundary of the valve that also provides 
+the pipe connecting ends, the fluid flow 
+passageway, and supports the seating 
+surfaces and the valve closure member. 
+Among the most common valve body 
+constructions are: single-ported valve 
+bodies having one port and one valve 
+plug; double-ported valve bodies having 
+1
+3 2
+4
+5
+6
+7
+8 9
+10
+11 12
+1. Loading Pressure Connection
+2. Diaphragm Case
+3. Diaphragm
+4. Diaphragm Plate
+5. Seal Bushing
+6. Actuator Spring
+7. Actuator Stem
+8. Spring Seat
+9. Spring Adjuster
+10.Stem Connector
+11.Valve Stem
+12.Yoke
+Figure 1.12 Reverse-Acting Actuator
+Control Valve Handbook | Chapter 1: Introduction to Control Valves
+21
+two ports and one valve plug; two-way 
+valve bodies having two flow 
+connections, one inlet and one outlet; 
+three-way valve bodies having three flow 
+connections, two of which can be inlets 
+with one outlet (for converging or mixing 
+flows), or one inlet and two outlets (for 
+diverging or diverting flows). The term 
+“valve body”, or even just “body”, is 
+frequently used in referring to the valve 
+body together with its bonnet assembly 
+and included trim parts. More properly, 
+this group of components should be 
+called the valve body assembly. 
+Valve Body Assembly (Commonly Valve 
+Body or Valve, more properly Valve Body 
+Assembly): An assembly of a valve body, 
+bonnet assembly, bottom flange (if 
+used), and trim elements. The trim 
+includes the closure member, which 
+opens, closes, or partially obstructs one 
+or more ports.
+Valve Plug (Plug): A term frequently 
+used to reference the valve closure 
+member in a sliding-stem valve.
+Valve Stem: In a linear motion valve, the 
+part that connects the actuator stem 
+with the closure member.
+Yoke: The structure that rigidly connects 
+the actuator power unit to the valve.
