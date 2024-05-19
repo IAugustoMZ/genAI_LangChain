@@ -81,3 +81,21 @@ index.query(
     top_k=3,
     include_values=False
 )
+
+# %%
+# create a new namespace
+vectors = [[random.random() for _ in range(1536)] for _ in range(3)]
+ids = [f'vector_{i}' for i in range(3)]
+index.upsert(vectors=zip(ids, vectors), namespace='namespace_1')
+
+# %%
+index.describe_index_stats()
+
+# %%
+# delete all vectors in a namespace
+index.delete(namespace='namespace_1', delete_all=True)
+
+# %%
+index.describe_index_stats()
+
+# %%
