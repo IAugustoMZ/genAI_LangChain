@@ -6,10 +6,6 @@ Welcome to the LangChain and Generative AI Experiments repository! This reposito
 
 1. [Overview](#overview)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Examples](#examples)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Overview
 
