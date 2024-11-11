@@ -22,6 +22,7 @@ This repository showcases multiple examples of how to use LangChain with differe
 - Working with Google Generative AI (Gemini)
 - Implementing a custom ChatGPT application
 - Working with Memory in Chatbots (with and without limitation)
+- Named Entity Extraction with structured output (pydantic model)
 
 ## Installation
 
