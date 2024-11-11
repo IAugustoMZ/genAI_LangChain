@@ -2,3 +2,4 @@ langchain==0.2.11
 langchain-community==0.2.10
 langchain-groq
 pandas
+langchain-openai
