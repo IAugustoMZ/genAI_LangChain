@@ -21,6 +21,7 @@ This repository showcases multiple examples of how to use LangChain with differe
 - Using Pinecone for vector stores
 - Working with Google Generative AI (Gemini)
 - Implementing a custom ChatGPT application
+- Working with Memory in Chatbots (with and without limitation)
 
 ## Installation
 
