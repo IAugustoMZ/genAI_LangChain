@@ -27,7 +27,6 @@ chatbot = ChatGroq(
     temperature=0,
     max_tokens=None,
     max_retries=2,
-
 )
 
 # create the chatbot memory
