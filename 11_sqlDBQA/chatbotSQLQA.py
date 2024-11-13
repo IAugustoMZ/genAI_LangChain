@@ -29,7 +29,7 @@ chatbot = ChatGroq(
 )
 
 # get the sql database path
-db_path = 'C:\\Users\\izelioli\\OneDrive - Deloitte (O365D)\\Documents\\Pessoais\\UsefulProjects\\timesheet_appointment\\repository\\database\\personal_organizer.db'
+db_path = '<database_path>'
 
 # create the database
 db = SQLDatabase.from_uri(f'sqlite:///{db_path}')

@@ -23,6 +23,8 @@ This repository showcases multiple examples of how to use LangChain with differe
 - Implementing a custom ChatGPT application
 - Working with Memory in Chatbots (with and without limitation)
 - Named Entity Extraction with structured output (pydantic model)
+- Sentence classification applied to Incident report classification
+- QA agent to a SQL database
 
 ## Installation
 
