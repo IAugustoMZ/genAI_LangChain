@@ -4,3 +4,7 @@
 
 # ignore venv
 genAIStudies
+
+# ignore docker
+Dockerfile
+docker-compose.yml
