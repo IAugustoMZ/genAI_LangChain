@@ -4,17 +4,17 @@ import random
 import warnings
 from enum import Enum
 from typing import List
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.pydantic_v1 import BaseModel, Field
 
 # define path to the .env file
-env_path = os.path.join(
-    os.path.dirname(os.path.dirname(__file__)),
-    '.env'
-)
-load_dotenv(dotenv_path=env_path, override=True)
+# env_path = os.path.join(
+#     os.path.dirname(os.path.dirname(__file__)),
+#     '.env'
+# )
+# load_dotenv(dotenv_path=env_path, override=True)
 
 # ignore the warnings
 warnings.filterwarnings("ignore")
@@ -161,6 +161,6 @@ for report in listReports:
         print(f'[SYSTEM]: Classification: {severity}, Issue: {issues}')
     except:
         print('[SYSTEM]: Unable to classify the incident report.')
-    print('---'*20)
-    time.sleep(5)
+    print('---'*200)
+    time.sleep(2)
  
