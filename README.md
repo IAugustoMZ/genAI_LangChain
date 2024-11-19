@@ -25,6 +25,8 @@ This repository showcases multiple examples of how to use LangChain with differe
 - Named Entity Extraction with structured output (pydantic model)
 - Sentence classification applied to Incident report classification
 - QA agent to a SQL database
+- PDF document QA agent
+- Basic RAG App for QA building and answer checking based on user input
 
 ## Installation
 

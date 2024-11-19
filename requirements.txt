@@ -3,3 +3,8 @@ langchain-community==0.2.10
 langchain-groq
 pandas
 langchain-openai
+chromadb
+langchain-chroma
+pypdf
+unstructured
+markdown
