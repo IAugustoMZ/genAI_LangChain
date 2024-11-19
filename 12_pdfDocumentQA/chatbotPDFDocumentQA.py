@@ -30,7 +30,7 @@ chatbot = ChatGroq(
 )
 
 # define the PDF path
-pdfpath = 'C:\\Users\\izelioli\\OneDrive - Deloitte (O365D)\\Documents\\Pessoais\\UsefulProjects\\genAI_LangChain\\12_pdfDocumentQA\\PrincipaisEtapasEngenheirVirtual.pdf'
+pdfpath = '<pdf_path>'
 
 # create the document loader
 doc_loader = PyPDFLoader(pdfpath)
