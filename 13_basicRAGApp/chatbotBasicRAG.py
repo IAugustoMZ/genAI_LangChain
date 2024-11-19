@@ -33,7 +33,7 @@ chatbot = ChatGroq(
 )
 
 # load the document
-document_path = 'C:\\Users\\izelioli\\OneDrive - Deloitte (O365D)\\Documents\\Pessoais\\UsefulProjects\\genAI_LangChain\\13_basicRAGApp\data'
+document_path = '<documents_path>'
 files = os.listdir(document_path)
 
 # create the document loader
