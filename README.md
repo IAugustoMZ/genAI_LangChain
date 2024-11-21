@@ -27,6 +27,7 @@ This repository showcases multiple examples of how to use LangChain with differe
 - QA agent to a SQL database
 - PDF document QA agent
 - Basic RAG App for QA building and answer checking based on user input
+- Basic Conversational RAG App considering memory, session management and contextualization
 
 ## Installation
 
