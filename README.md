@@ -50,4 +50,5 @@ To run the scripts in this repository, you need to have Python 3.7 or higher ins
     ```plaintext
     OPENAI_API_KEY=your_openai_api_key
     GOOGLE_API_KEY=your_google_api_key
+    GROQ_API_KEY=your_groq_api_key
     ```
