@@ -28,6 +28,8 @@ This repository showcases multiple examples of how to use LangChain with differe
 - PDF document QA agent
 - Basic RAG App for QA building and answer checking based on user input
 - Basic Conversational RAG App considering memory, session management and contextualization
+- Basic Agentic App to calculate the vapor pressure of water, given a temperature in Celsius
+- Basic App deployed with LangServe to talk about chemical engineering concepts
 
 ## Installation
 
