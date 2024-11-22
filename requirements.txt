@@ -8,3 +8,7 @@ langchain-chroma
 pypdf
 unstructured
 markdown
+langgraph
+langserve
+fastapi
+sse_starlette
