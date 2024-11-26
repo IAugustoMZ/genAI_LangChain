@@ -12,3 +12,4 @@ langgraph
 langserve
 fastapi
 sse_starlette
+streamlit
