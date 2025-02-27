@@ -1,5 +1,10 @@
-langchain==0.2.11
-langchain-community==0.2.10
-langchain-groq
-pandas
-langchain-openai
+langchain==0.3.13
+langchain-openai==0.2.14
+langchain-groq==0.2.3
+langgraph==0.2.60
+langchain-experimental==0.3.4
+pandas==2.2.2
+fastapi==0.115.7
+uvicorn==0.34.0
+pydantic==2.10.5
+beautifulsoup4==4.12.2
