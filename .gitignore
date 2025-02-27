@@ -8,3 +8,6 @@ genAIStudies
 # ignore docker
 Dockerfile
 docker-compose.yml
+
+# ignore documents
+*.pdf

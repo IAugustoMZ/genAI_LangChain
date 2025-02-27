@@ -25,6 +25,11 @@ This repository showcases multiple examples of how to use LangChain with differe
 - Named Entity Extraction with structured output (pydantic model)
 - Sentence classification applied to Incident report classification
 - QA agent to a SQL database
+- PDF document QA agent
+- Basic RAG App for QA building and answer checking based on user input
+- Basic Conversational RAG App considering memory, session management and contextualization
+- Basic Agentic App to calculate the vapor pressure of water, given a temperature in Celsius
+- Basic App deployed with LangServe to talk about chemical engineering concepts
 
 ## Installation
 
@@ -47,4 +52,5 @@ To run the scripts in this repository, you need to have Python 3.7 or higher ins
     ```plaintext
     OPENAI_API_KEY=your_openai_api_key
     GOOGLE_API_KEY=your_google_api_key
+    GROQ_API_KEY=your_groq_api_key
     ```

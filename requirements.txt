@@ -8,3 +8,11 @@ fastapi==0.115.7
 uvicorn==0.34.0
 pydantic==2.10.5
 beautifulsoup4==4.12.2
+langchain-community==0.2.10
+chromadb
+langchain-chroma
+pypdf
+unstructured
+markdown
+langserve
+streamlit
